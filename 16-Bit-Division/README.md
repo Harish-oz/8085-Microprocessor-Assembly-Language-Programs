@@ -36,7 +36,7 @@ SHLD 2056H         ; Store Quotient at 2056H
 HLT                ; Stop the program
 ```
 <br><br><br>
-**Explanation**<br>
+**Explaination**<br>
 This program performs division by repeated subtraction.  
 The 16-bit dividend is stored at 2050H–2051H, and the divisor is stored at 2052H. The program keeps subtracting the divisor from the dividend until the remaining value becomes smaller than the divisor. Every time the subtraction is successful, the quotient is increased by 1.  
   
