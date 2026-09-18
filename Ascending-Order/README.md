@@ -30,7 +30,7 @@ SKIP: DCR C       ; Reduce comparison count
 HLT               ; Stop
 ```
 <br><br><br>
-**Explaination**<br>
+**Explanation**<br>
 Ascending order means arranging numbers from smallest → largest.<br>
 For example<br>
 Unsorted:  3, 9, 1, 5<br>
