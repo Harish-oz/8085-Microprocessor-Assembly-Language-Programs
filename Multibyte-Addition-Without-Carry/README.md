@@ -1,4 +1,4 @@
-Addition of two 16-bits using HL and DE registers<br><br>
+Here is the assembly language program to perform addition of two 16-bits using HL and DE registers<br><br>
 
 ```
 LHLD 2050H       ; Load 16-bit number from 2050H–2051H into HL
