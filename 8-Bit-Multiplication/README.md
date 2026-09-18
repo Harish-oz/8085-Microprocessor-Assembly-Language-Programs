@@ -20,7 +20,7 @@ STA 2071H          ; Store higher byte at 2071H
 HLT                ; Stop the program
 ```
 <br><br><br>
-**Explaination**<br>
+**Explanation**<br>
 This program performs multiplication by using repeated addition instead of a multiplication instruction and the result is stored as a 16-bit number.  
 Here, 25H is the number of times the addition will be performed, and 10H is the number that is repeatedly added.  
   
