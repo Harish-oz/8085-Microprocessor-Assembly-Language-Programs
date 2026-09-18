@@ -1,6 +1,5 @@
-8085 microprocessor assembly language program to find the perfect square root of the given integer.
-
-
+Here is the assembly language program to find the perfect square root of the given integer.
+<br><br>
 ```
 LDA 2000H        ; Store the value of integer here
 MVI C, 01H       ; C starts at 1 because square numbers are formed by sum of odd numbers → 1 + 3 + 5 + 7 ...
